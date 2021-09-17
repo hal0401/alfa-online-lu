@@ -264,7 +264,7 @@ button {
 }
 
 .sub-title__bg {
-  background-color: #fcee21;
+  background-color: rgb(128, 134, 141);
   padding-left: 1rem;
   padding-right: 1rem;
 }
@@ -365,7 +365,7 @@ button {
 * header
 *****************/
 .header {
-  background-color: #fff;
+  background-color: rgb(128, 134, 141);
   height: 60px;
 }
 
